@@ -1,5 +1,7 @@
 # Grid-Testimonial-Page
-Testimonial page, using CSS and grid
+Testimonial page, 
+
+using CSS to style and grid for layout
 
 Project From Frontend Mentor
 
